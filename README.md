@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nakamurakei2&theme=dark&hide_border=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakamurakei2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakamura25257&layout=compact)
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
