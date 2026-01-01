@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nakamurakei2&theme=dark&hide_border=false)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakamurakei2&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakamurakei2&layout=compact)
 
 
