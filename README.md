@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakamurakei2&layout=compact)
 
+ご相談内容はこちらから↓ <br>
+https://docs.google.com/forms/d/e/1FAIpQLSfNyuh3f35M-Ttn3fZMDeHXWZan0uqTKdxgzkoyFekJh_PVeg/viewform?usp=header
